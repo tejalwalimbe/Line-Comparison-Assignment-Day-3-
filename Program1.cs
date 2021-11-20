@@ -4,7 +4,7 @@ using static System.Math;
 
 namespace LineComparison
 {
-    class Program3
+    class Program1
 
     {
         public static void Main(string[] args)
