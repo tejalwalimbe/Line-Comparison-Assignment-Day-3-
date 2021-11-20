@@ -4,7 +4,7 @@ using System.Text;
 namespace LineComparison
     {
     //UC2
-        class Program
+        class Program2
 
         {
             public static void Main(string[] args)
