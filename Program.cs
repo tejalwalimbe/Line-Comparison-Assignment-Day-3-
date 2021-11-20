@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 namespace LineComparison
     {
-    //UC1
+    //UC2
         class Program
 
         {
